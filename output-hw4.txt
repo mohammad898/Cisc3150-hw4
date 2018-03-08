@@ -1,0 +1,16 @@
+How many rows do you want: 4
+Enter Number of Length [0]: 2
+Enter Character what ever   0 element  you like [0]: g
+Enter Character what ever   1 element  you like [0]: h
+Enter Number of Length [1]: 2
+Enter Character what ever   0 element  you like [1]: m
+Enter Character what ever   1 element  you like [1]: n
+Enter Number of Length [2]: 2
+Enter Character what ever   0 element  you like [2]: p
+Enter Character what ever   1 element  you like [2]: q
+Enter Number of Length [3]: 2
+Enter Character what ever   0 element  you like [3]: x
+Enter Character what ever   1 element  you like [3]: y
+Letters formet: 
+[gmpx, gmpy, gmqx, gmqy, gnpx, gnpy, gnqx, gnqy, hmpx, hmpy, hmqx, hmqy, hnpx, hnpy, hnqx, hnqy]
+
